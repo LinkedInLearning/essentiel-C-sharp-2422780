@@ -13,6 +13,6 @@ C# est un langage très important à connaître si vous êtes développeur, puis
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-c-sharp-14363404/aborder-cette-formation?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&u=104
 [lil-thumbnail-url]: http://
 
