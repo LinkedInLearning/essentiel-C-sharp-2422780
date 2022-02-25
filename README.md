@@ -1,6 +1,6 @@
 # L'essentiel de C#
 
-Ce dossier Repository est lié au cours `[L'essentiel de C#]`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours [L'essentiel de C#]. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url]
 
