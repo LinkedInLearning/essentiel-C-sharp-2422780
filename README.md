@@ -21,5 +21,5 @@ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-c-sharp-14363404
-[lil-thumbnail-url]:  https://media-exp1.licdn.com/dms/image/C4E0DAQFstVLWIFDkng/learning-public-crop_675_1200/0/1636529580227?e=1645887600&v=beta&t=3KYKF6P907gNjhRcK6PjFJnJpgPwpaX-t0P7cI0sz3E
+[lil-thumbnail-url]:  https://media-exp1.licdn.com/dms/image/C4E0DAQFstVLWIFDkng/learning-public-crop_675_1200/0/1636529580227?e=1646960400&v=beta&t=FaLGjAU6LK8Tdl02u01SoU_KGD0HboPYqCzGoCMAXcY
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/rudi-bruchez
