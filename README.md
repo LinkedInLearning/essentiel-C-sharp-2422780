@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `L'essentiel de C#`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![Nom final de la formation][lil-thumbnail-url]
+![image](https://media-exp1.licdn.com/dms/image/C4E0DAQFstVLWIFDkng/learning-public-crop_675_1200/0/1636529580227?e=1659614400&v=beta&t=CKABhPSsmH5v8RZw1bZ0T-Y8xqHJ9tZHx2lDSGHCqpw) 
 
 C# est un langage très important à connaître si vous êtes développeur, puisqu'il s'agit d'un des langages les plus utilisés au monde. Dans cette formation, Rudi Bruchez aborde les fondamentaux de C# qui vous permettront de comprendre ce langage, dès le début. Vous verrez comment le mettre en œuvre dans Visual Studio, en abordant sa syntaxe et ses particularités. Vous comprendrez la différence entre des types valeur et des types référence, entre les types fondamentaux et les structures de données, comme le tuple valeur, etc. À l'issue de cette formation, vous saurez réaliser des petits programmes en C# et vous pourrez vous appuyer sur cette connaissance pour évoluer vers la réalisation d'applications web ou d'applications pour le bureau.
 
