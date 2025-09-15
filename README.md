@@ -6,6 +6,8 @@ Ce dossier Repository est lié au cours `L'essentiel de C#`. Le cours entier est
 
 C# est un langage très important à connaître si vous êtes développeur, puisqu'il s'agit d'un des langages les plus utilisés au monde. Dans cette formation, Rudi Bruchez aborde les fondamentaux de C# qui vous permettront de comprendre ce langage, dès le début. Vous verrez comment le mettre en œuvre dans Visual Studio, en abordant sa syntaxe et ses particularités. Vous comprendrez la différence entre des types valeur et des types référence, entre les types fondamentaux et les structures de données, comme le tuple valeur, etc. À l'issue de cette formation, vous saurez réaliser des petits programmes en C# et vous pourrez vous appuyer sur cette connaissance pour évoluer vers la réalisation d'applications web ou d'applications pour le bureau.
 
+La meilleure façon d'apprendre un langage est de l'utiliser dans la pratique. C'est pourquoi ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. 
+
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
